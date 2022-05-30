@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
+nav{
+    font-family: Poppins;
+}
+
+.bg-kita{
+    background-color :#10b981;
+}
+
+.profil{
+    height:300px;
+}
+
+
+.slide{
+    width:50rem auto;
+}
+
+.bg-1{
+   background-color:#0099ff;
+}   
+
+.poppins{
+    font-family:Poppins;
+}
+.roboto{
+    font-family:roboto, sans-serif;
+}
+.letter-space{
+    letter-spacing:3px;
+
+}
+.text-color-1{
+    color:#0099ff;
+}
